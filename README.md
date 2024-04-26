@@ -1,10 +1,12 @@
 # Analyzing Bank Customer Data for Better Term Deposit Campaign
 Getting to Know Our Customers: Insights for Better Campaign Marketing
 
-<br>By: Tanyaluck Kanai
+By: Tanyaluck Kanai
 <br>Project Status: On going
 <br>Date: 20 March 2024
 <br>Tools: Python, Tableau
+
+For a concise overview of the insights and strategic implications derived from this project, please [click here](https://public.tableau.com/app/profile/tanyaluck.kanai/viz/AnalyzingBankMarketingCampaigns/Demographics?publish=yes) to view the Tableau Dashboard.
 
 ## Introduction
 Banks often run marketing campaigns to encourage people to open term deposits, which are savings accounts that earn interest.
@@ -36,6 +38,8 @@ The primary aim of this project is to enhance the effectiveness of the bank's ma
 
 ### About the Dataset
 Our project uses a dataset from Kaggle that contains detailed information on bank customers and their responses to term deposit campaigns. It includes demographic details, financial data, and records of interactions with marketing efforts. This dataset is ideal for analyzing customer behavior and improving our banking services.
+
+Please [click here](https://www.kaggle.com/datasets/seanangelonathanael/bank-target-marketing/data) to visit the dataset webpage on Kaggle.
 
 ### Dataset Variables Explanation
 - age: Customer's age.
