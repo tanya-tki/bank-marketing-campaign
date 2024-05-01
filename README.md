@@ -62,3 +62,12 @@ Please [click here](https://www.kaggle.com/datasets/seanangelonathanael/bank-tar
 
 ## 3. Process
 Data processing is to find various inaccuracies, errors, inconsistencies in the data and get rid of them so that our primary business problem is not affected.
+
+## 4. Analyze
+
+In the analyze phase of our project, we dive deep down into our dataset to uncover the underlying relationships, trends, and patterns that are essential to addressing our business problem.
+
+Our analysis is divided into two parts: *Customers base overview* and *Subscribers analysis*
+
+## 5. Share
+## 6. Act
