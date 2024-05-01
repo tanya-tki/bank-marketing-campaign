@@ -70,4 +70,20 @@ In the analyze phase of our project, we dive deep down into our dataset to uncov
 Our analysis is divided into two parts: *Customers base overview* and *Subscribers analysis*
 
 ## 5. Share
+
+The insights and patterns discovered through our analysis have been transformed into interactive and visually engaging representations. Our Tableau dashboard provides a comprehensive view of the demographic profiles, financial behaviors, and contact engagements of our customers, enabling stakeholders to easily grasp the nuances of the data. To see the visualization of our findings, please check out the dashboard by following this link: [View Dashboard](https://public.tableau.com/app/profile/tanyaluck.kanai/viz/AnalyzingBankMarketingCampaigns/Demographics?publish=yes)
+
+
 ## 6. Act
+
+Upon analyzing the data, several actionable strategies emerge to enhance the bank's marketing campaigns for term deposits:
+
+Targeted Marketing Approaches: Tailor marketing campaigns to specific demographic and financial profiles that have shown higher propensity for subscription. For instance, focus on married individuals with tertiary education and management roles who have demonstrated a higher subscription rate.
+
+Optimization of Contact Strategy: Adjust the frequency of campaign contacts to avoid customer fatigue. Our analysis indicates that the highest subscription rates occur at lower contact frequencies, specifically in the early stages of customer engagement.
+
+Seasonal Timing: Leverage the insights on timing to maximize engagement. For instance, increase marketing efforts during early months and specific periods like March and December, where subscription rates are notably higher.
+
+Financial Product Customization: Develop customized financial products that cater to the needs of different customer segments identified in the analysis, such as offering more attractive terms on deposits to high-balance holders or simplified application processes for younger, tech-savvy customers.
+
+Continuous Monitoring and Adjustment: Implement a feedback loop to continuously monitor the effectiveness of these strategies and make adjustments based on real-time data and evolving market conditions.
