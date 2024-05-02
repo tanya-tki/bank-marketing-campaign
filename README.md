@@ -12,13 +12,16 @@ For a concise overview of the insights and strategic implications derived from t
 [Introduction](#introduction)
 <br>[Methodology](#methodology)
 1. [Ask](#1-ask)
-2. [Prepare](#2-prepare)
-3. [Process (Data Cleaning)](#3-process-data-cleaning)
-4. [Analyze](#4-analyze)
+     - [Business Objective](#business-objective)
+     - [Questions Driving the Analysis](#questions-driving-the-analysis)
+3. [Prepare](#2-prepare)
+     - [About the Dataset](#about-the-dataset)
+5. [Process (Data Cleaning)](#3-process-data-cleaning)
+6. [Analyze](#4-analyze)
      - [Part 1: Customers Base Overview](#part-1-customers-base-overview)
      - [Part 2: Subscribers Analysis](#part-2-subscribers-analysis)
-5. [Share](#5-share)
-6. [Act](#6-act)
+7. [Share (Visualization)](#5-share)
+8. [Act (Stragetic Implications)](#6-act) 
 
 ## Introduction
 Banks often run marketing campaigns to encourage people to open term deposits, which are savings accounts that earn interest.
@@ -36,11 +39,11 @@ In this project, we adopt a structured approach to data analysis known as the *D
 
 ## 1. Ask
 
-**Business Objective**
+### Business Objective
 
 The primary aim of this project is to enhance the effectiveness of the bank's marketing strategy for term deposit campaigns by identifying factors that influence customers' decisions to subscribe to term deposits. Understanding these factors will allow the bank to target the right customers more effectively and allocate resources more efficiently.
 
-**Questions Driving the Analysis**
+### Questions Driving the Analysis
 
 - Who subscribes?: Who are the customers that subscribe to term deposits (demographics, financial behavior, etc.?
 - When do they subscribe?: Is there a pattern in terms of timing or customer lifecycle stage that influences subscription rates?
