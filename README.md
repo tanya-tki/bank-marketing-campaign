@@ -63,7 +63,7 @@ Please [click here](https://www.kaggle.com/datasets/seanangelonathanael/bank-tar
 ## 3. Process (Data Cleaning)
 Data processing is to find various inaccuracies, errors, inconsistencies in the data and get rid of them so that our primary business problem is not affected. 
 
-For a detailed look at the Python code used to clean the data, please click here to view the data cleaning process.
+For a detailed look at the Python code used to clean the data, please [click here to view the data cleaning process.](https://github.com/tanya-tki/bank-marketing-campaign/blob/main/data_cleaning_steps.ipynb)
 
 ## 4. Analyze
 
