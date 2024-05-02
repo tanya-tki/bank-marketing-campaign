@@ -8,6 +8,16 @@ By: Tanyaluck Kanai
 
 For a concise overview of the insights and strategic implications derived from this project, please [click here](https://public.tableau.com/app/profile/tanyaluck.kanai/viz/AnalyzingBankMarketingCampaigns/Demographics?publish=yes) to view the Tableau Dashboard.
 
+## Table of Contents
+[Introduction](#introduction)
+<br>[Methodology](#methodology)
+1. [Ask](#1-ask)
+2. [Prepare](#2-prepare)
+3. [Process (Data Cleaning)](#3-process-data-cleaning)
+4. [Analyze](#4-analyze)
+5. [Share](#5-share)
+6. [Act](#6-act)
+
 ## Introduction
 Banks often run marketing campaigns to encourage people to open term deposits, which are savings accounts that earn interest.
 In this project, we dive into bank's customer data to uncover what drives customers to engage with term deposit products. Our goal is to leverage these insights to refine the company's marketing efforts, customize services, and strengthen customer relationships. By analyzing demographics, financial behaviors, and interaction patterns, we aim to identify actionable strategies that can enhance the bank's offerings and foster growth.
