@@ -17,7 +17,7 @@ In this project, we adopt a structured approach to data analysis known as the *D
 
 1. Ask : Defining our goals and the questions we aim to answer with our analysis.
 2. Prepare: Gathering our dataset from Kaggle and ensuring it's ready for analysis.
-3. Process: Using Python to clean and preprocess our data, making it suitable for detailed examination.
+3. Process (Data Cleaning): Using Python to clean and preprocess our data, making it suitable for detailed examination.
 4. Analyze: Delving into the data to uncover patterns, trends, and insights that answer our initial questions.
 5. Share: Visualizing our findings with Tableau, crafting a compelling narrative that conveys the story behind the data.
 6. Act: Drawing conclusions and recommending actions based on our analysis to inform decision-making and strategy.# bank-marketing-campaign
@@ -60,14 +60,26 @@ Please [click here](https://www.kaggle.com/datasets/seanangelonathanael/bank-tar
 - poutcome: Outcome of the previous marketing campaign.
 - deposit: Whether the customer subscribed to a term deposit.
 
-## 3. Process
-Data processing is to find various inaccuracies, errors, inconsistencies in the data and get rid of them so that our primary business problem is not affected.
+## 3. Process (Data Cleaning)
+Data processing is to find various inaccuracies, errors, inconsistencies in the data and get rid of them so that our primary business problem is not affected. 
+
+For a detailed look at the Python code used to clean the data, please click here to view the data cleaning process.
 
 ## 4. Analyze
 
 In the analyze phase of our project, we dive deep down into our dataset to uncover the underlying relationships, trends, and patterns that are essential to addressing our business problem.
 
 Our analysis is divided into two parts: *Customers base overview* and *Subscribers analysis*
+
+In the analyze phase of our project, we delve deep into our dataset to uncover the underlying relationships, trends, and patterns that are essential to addressing our business problem. This detailed examination is structured into two main parts:
+
+### Part 1: Customers Base Overview
+In this segment, we explore the general characteristics of our entire customer base. By analyzing demographic details, financial behaviors, and interaction patterns, we aim to establish a comprehensive understanding of our typical customer. This overview provides the foundational insights necessary for targeted marketing and product development.
+
+### Part 2: Subscribers Analysis
+The second part of our analysis focuses on the customers who have responded positively to term deposit campaigns — the subscribers. Here, we investigate the specific traits and behaviors that distinguish subscribers from non-subscribers, aiming to identify factors that influence their decision to engage with our term deposit products.
+
+For an in-depth view of the Python code used to analyze these data segments, please click here to view Customer Base Overview and click here to view Subscribers Analysis process. 
 
 ## 5. Share
 
