@@ -79,7 +79,7 @@ In this segment, we explore the general characteristics of our entire customer b
 ### Part 2: Subscribers Analysis
 The second part of our analysis focuses on the customers who have responded positively to term deposit campaigns — the subscribers. Here, we investigate the specific traits and behaviors that distinguish subscribers from non-subscribers, aiming to identify factors that influence their decision to engage with our term deposit products.
 
-For an in-depth view of the Python code used to analyze these data segments, please [click here to view Customer Base Overview](https://github.com/tanya-tki/bank-marketing-campaign/blob/main/analyze_part_1_customerbase_overview.ipynb) and click here to view Subscribers Analysis process. 
+For an in-depth view of the Python code used to analyze these data segments, please [click here to view Customer Base Overview](https://github.com/tanya-tki/bank-marketing-campaign/blob/main/analyze_part_1_customerbase_overview.ipynb) and [click here to view Subscribers Analysis process.](https://github.com/tanya-tki/bank-marketing-campaign/blob/main/analyze_part_2_subscribers.ipynb)
 
 ## 5. Share
 
