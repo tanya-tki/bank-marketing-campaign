@@ -15,6 +15,8 @@ For a concise overview of the insights and strategic implications derived from t
 2. [Prepare](#2-prepare)
 3. [Process (Data Cleaning)](#3-process-data-cleaning)
 4. [Analyze](#4-analyze)
+     - [Part 1: Customers Base Overview](#part-1-customers-base-overview)
+     - [Part 2: Subscribers Analysis](#part-2-subscribers-analysis)
 5. [Share](#5-share)
 6. [Act](#6-act)
 
@@ -86,10 +88,12 @@ In the analyze phase of our project, we delve deep into our dataset to uncover t
 ### Part 1: Customers Base Overview
 In this segment, we explore the general characteristics of our entire customer base. By analyzing demographic details, financial behaviors, and interaction patterns, we aim to establish a comprehensive understanding of our typical customer. This overview provides the foundational insights necessary for targeted marketing and product development.
 
+For an in-depth view of the Python code used to analyze these data, please [click here to view Customer Base Overview](https://github.com/tanya-tki/bank-marketing-campaign/blob/main/analyze_part_1_customerbase_overview.ipynb)
+
 ### Part 2: Subscribers Analysis
 The second part of our analysis focuses on the customers who have responded positively to term deposit campaigns — the subscribers. Here, we investigate the specific traits and behaviors that distinguish subscribers from non-subscribers, aiming to identify factors that influence their decision to engage with our term deposit products.
 
-For an in-depth view of the Python code used to analyze these data segments, please [click here to view Customer Base Overview](https://github.com/tanya-tki/bank-marketing-campaign/blob/main/analyze_part_1_customerbase_overview.ipynb) and [click here to view Subscribers Analysis process.](https://github.com/tanya-tki/bank-marketing-campaign/blob/main/analyze_part_2_subscribers.ipynb)
+For an in-depth view of the Python code used to analyze these data, please [click here to view Subscribers Analysis process.](https://github.com/tanya-tki/bank-marketing-campaign/blob/main/analyze_part_2_subscribers.ipynb)
 
 ## 5. Share
 
