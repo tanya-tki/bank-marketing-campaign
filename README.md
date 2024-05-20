@@ -2,7 +2,7 @@
 Getting to Know Our Customers: Insights for Better Campaign Marketing
 
 By: Tanyaluck Kanai
-<br>Project Status: On going
+<br>Project Status: Completed
 <br>Date: 20 March 2024
 <br>Tools: Python, Tableau
 
